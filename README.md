@@ -13,3 +13,19 @@ We are tasked to create an analysis for clients who are preparing to get into th
 
 ## Results
 
+### Elbow Curve
+K-means is an unsupervised learning algorithm used to identify and solve clustering issues. K represents how many clusters there will be. These clusters are then determined by the means of all the points that will belong to the cluster. The K-means algorithm groups the data into K clusters, where belonging to a cluster is based on some similarity or distance measure to a centroid. An easy method for determining the best number for K is the elbow curve. Using inertia, we were able to determine that K = 4 is the ideal number for clustering.
+![Screenshot (411)](https://user-images.githubusercontent.com/29410712/201826959-5eca41b2-307d-47cf-a356-a1865be7a396.png)
+
+### Tradable Cryptocurrencies
+In our analysis, we determined there were 532 tradable cryptocurrencies.
+
+![Screenshot (414)](https://user-images.githubusercontent.com/29410712/201827306-446e7e13-c1f4-438c-a388-c84d1ed0040c.png)
+
+### 3D Scatterplot
+We created a 3D-Scatterplot with the PCA data and the clusters.
+![newplot (3)](https://user-images.githubusercontent.com/29410712/201826464-e5c2cd27-4242-497a-8318-4567a669597a.png)
+
+### 2D Scatterplot
+Additionally, we also created a 2D-Scatterplot with the PCA data and the clusters.
+![Screenshot (415)](https://user-images.githubusercontent.com/29410712/201827393-e492db28-15df-4dec-9fcb-4886dda46e1a.png)
