@@ -9,7 +9,7 @@ We are tasked to create an analysis for clients who are preparing to get into th
 
 ## Resources
 + Analysis Software: `Python 3.10`, `Jupyter Notebook 6.4.12`
-+ Data Source: `crypto_data.csv`
++ Data Source: [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist) - `crypto_data.csv`
 
 ## Results
 
@@ -19,7 +19,6 @@ K-means is an unsupervised learning algorithm used to identify and solve cluster
 
 ### Tradable Cryptocurrencies
 In our analysis, we determined there were 532 tradable cryptocurrencies.
-
 ![Screenshot (414)](https://user-images.githubusercontent.com/29410712/201827306-446e7e13-c1f4-438c-a388-c84d1ed0040c.png)
 
 ### 3D Scatterplot
