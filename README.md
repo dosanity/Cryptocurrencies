@@ -19,7 +19,7 @@ K-means is an unsupervised learning algorithm used to identify and solve cluster
 
 ### Tradable Cryptocurrencies
 In our analysis, we determined there were 532 tradable cryptocurrencies.
-![Screenshot (414)](https://user-images.githubusercontent.com/29410712/201827306-446e7e13-c1f4-438c-a388-c84d1ed0040c.png)
+![data-18-challenge-hvplot-table-showing-all-tradable-cryptocurrencies](https://user-images.githubusercontent.com/29410712/207773418-bf5bbd98-c35b-4a10-bfc3-ecbe095ec1a7.png)
 
 ### 3D Scatterplot
 We created a 3D-Scatterplot with the PCA data and the clusters.
@@ -27,4 +27,6 @@ We created a 3D-Scatterplot with the PCA data and the clusters.
 
 ### 2D Scatterplot
 Additionally, we also created a 2D-Scatterplot with the PCA data and the clusters.
-![Screenshot (415)](https://user-images.githubusercontent.com/29410712/201827393-e492db28-15df-4dec-9fcb-4886dda46e1a.png)
+![data-18-challenge-hvplot-scatter-plot](https://user-images.githubusercontent.com/29410712/207773361-3f756bac-17ba-4c67-b12c-10246ecc645b.png)
+
+
